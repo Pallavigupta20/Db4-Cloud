@@ -1,0 +1,3 @@
+[submodule "Tinu"]
+	path = Tinu
+	url = https://github.com/tinu-ns/db4cloud_test_repo.git
